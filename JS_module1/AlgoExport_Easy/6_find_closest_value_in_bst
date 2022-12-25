@@ -54,4 +54,7 @@ class BST {
 
 
 
-console.log(findClosestVakueInBst(tr, tar))
+console.log(findClosestVakueInBst(tr, tar
+u
+
+// waa here
